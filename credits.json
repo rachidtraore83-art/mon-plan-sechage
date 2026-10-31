@@ -1,0 +1,332 @@
+[
+  {
+    "id": "secher_passif",
+    "caption": "Séchoir passif / solaire simple",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_mais",
+    "file": "images/crop_mais.webp",
+    "caption": "Épis de maïs",
+    "author": "User:Asbestos",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corncobs.jpg",
+    "commons_title": "File:Corncobs.jpg",
+    "bytes": 90490,
+    "kind": "photo"
+  },
+  {
+    "id": "preparer_balance",
+    "caption": "Balance de cuisine",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_tomate",
+    "file": "images/crop_tomate.webp",
+    "caption": "Tomates",
+    "author": "Softeis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "commons_title": "File:Tomato je.jpg",
+    "bytes": 20424,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_baobab",
+    "file": "images/crop_baobab.webp",
+    "caption": "Fruit de baobab",
+    "author": "Ikiwaner",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baobab_fruit.jpg",
+    "commons_title": "File:Baobab fruit.jpg",
+    "bytes": 60092,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_tamarin",
+    "file": "images/crop_tamarin.webp",
+    "caption": "Gousses de tamarin",
+    "author": "Augustus Binu/ facebook",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tamarind_fruit.jpg",
+    "commons_title": "File:Tamarind fruit.jpg",
+    "bytes": 10752,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_arachide",
+    "file": "images/crop_arachide.webp",
+    "caption": "Arachides",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roasted_peanuts.jpg",
+    "commons_title": "File:Roasted peanuts.jpg",
+    "bytes": 66316,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_piment",
+    "file": "images/crop_piment.webp",
+    "caption": "Piments rouges",
+    "author": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_chili.jpg",
+    "commons_title": "File:Red chili.jpg",
+    "bytes": 10798,
+    "kind": "photo"
+  },
+  {
+    "id": "secher_tranches",
+    "caption": "Tranches en séchage",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "secher_solaire",
+    "caption": "Séchoir solaire",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "transformer_tamis",
+    "caption": "Tamis",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_banane",
+    "file": "images/crop_banane.webp",
+    "caption": "Banane et coupe",
+    "author": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Sigma 150mm f/2.8",
+    "license": "GFDL 1.2",
+    "source": "https://commons.wikimedia.org/wiki/File:Banana_and_cross_section.jpg",
+    "commons_title": "File:Banana and cross section.jpg",
+    "bytes": 8254,
+    "kind": "photo"
+  },
+  {
+    "id": "secher_solaire2",
+    "caption": "Séchoir solaire (autre vue)",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_oignon",
+    "file": "images/crop_oignon.webp",
+    "caption": "Oignons",
+    "author": "Jon Sullivan",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:YellowOnions.jpg",
+    "commons_title": "File:YellowOnions.jpg",
+    "bytes": 15866,
+    "kind": "photo"
+  },
+  {
+    "id": "preparer_coupe",
+    "caption": "Découpe des fruits",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "secher_nesco",
+    "caption": "Séchoir électrique type armoire",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "secher_armoire",
+    "caption": "Séchoir en armoire",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "emballer_vide",
+    "caption": "Emballage sous vide",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "emballer_bande",
+    "caption": "Scellage de sachet",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "transformer_broyeur",
+    "caption": "Broyeur",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_moringa",
+    "file": "images/crop_moringa.webp",
+    "caption": "Feuilles de moringa",
+    "author": "Rehman Abubakr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flower_of_Moringa_oleifera.jpg",
+    "commons_title": "File:Flower of Moringa oleifera.jpg",
+    "bytes": 76458,
+    "kind": "photo"
+  },
+  {
+    "id": "transformer_moulin",
+    "caption": "Moulin",
+    "author": "Wikimedia ou Openverse",
+    "license": "CC",
+    "source": "https://commons.wikimedia.org/",
+    "kind": "photo"
+  },
+  {
+    "id": "crop_mangue",
+    "file": "images/crop_mangue.webp",
+    "caption": "Mangues fraîches",
+    "author": "Ivar Leidus",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg",
+    "commons_title": "File:Mangos - single and halved.jpg",
+    "bytes": 19668,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_ananas",
+    "file": "images/crop_ananas.webp",
+    "caption": "Ananas",
+    "author": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pineapple_Chunks.jpg",
+    "commons_title": "File:Pineapple Chunks.jpg",
+    "bytes": 25872,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_gingembre",
+    "file": "images/crop_gingembre.webp",
+    "caption": "Rhizome de gingembre",
+    "author": "Photograph:  Frank C. Müller, Baden-Baden",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ingwer_2_(fcm).jpg",
+    "commons_title": "File:Ingwer 2 fcm.jpg",
+    "bytes": 29536,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_citron",
+    "file": "images/crop_citron.webp",
+    "caption": "Citrons",
+    "author": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Lemon.jpg",
+    "commons_title": "File:Lemon.jpg",
+    "bytes": 28746,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_cajou",
+    "file": "images/crop_cajou.webp",
+    "caption": "Pomme et noix de cajou",
+    "author": "Dick Culbert from Gibsons, B.C., Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anacardium_occidentale,_the_Cashew_(17005726289).jpg",
+    "commons_title": "File:Anacardium occidentale, the Cashew (17005726289).jpg",
+    "bytes": 72846,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_bissap",
+    "file": "images/crop_bissap.webp",
+    "caption": "Calices de bissap (hibiscus)",
+    "author": "AjayDas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deep_maroon_palmate_leaves_of_Hibiscus_sabdariffa_cultivar,_locally_known_as_Tengamora_in_Assam,_growing_in_a_garden._01.jpg",
+    "commons_title": "File:Deep maroon palmate leaves of Hibiscus sabdariffa cultivar, locally known as Tengamora in Assam, growing in a garden. 01.jpg",
+    "bytes": 75674,
+    "kind": "photo"
+  },
+  {
+    "id": "crop_hibiscus",
+    "file": "images/crop_hibiscus.webp",
+    "caption": "Fleur d’hibiscus sabdariffa",
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_sabdariffa_kz01.jpg",
+    "commons_title": "File:Hibiscus sabdariffa kz01.jpg",
+    "bytes": 34314,
+    "kind": "photo"
+  },
+  {
+    "kind": "photo",
+    "file": "images/crop_goyave.webp",
+    "thumb": "images/thumbs/crop_goyave.webp",
+    "commons_title": "File:Psidium guajava fruit.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "A-giâu",
+    "source": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_fruit.jpg",
+    "caption": "goyave"
+  },
+  {
+    "kind": "photo",
+    "file": "images/crop_fonio.webp",
+    "thumb": "images/thumbs/crop_fonio.webp",
+    "commons_title": "File:Acha (Fonio).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "UmmiBee",
+    "source": "https://commons.wikimedia.org/wiki/File:Acha_(Fonio).jpg",
+    "caption": "fonio"
+  },
+  {
+    "kind": "photo",
+    "file": "images/crop_gombo.webp",
+    "thumb": "images/thumbs/crop_gombo.webp",
+    "commons_title": "File:Okra -- Abelmoschus esculentus.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "jim evans",
+    "source": "https://commons.wikimedia.org/wiki/File:Okra_--_Abelmoschus_esculentus.jpg",
+    "caption": "gombo"
+  },
+  {
+    "kind": "photo",
+    "file": "images/crop_menthe.webp",
+    "thumb": "images/thumbs/crop_menthe.webp",
+    "commons_title": "File:Fresh mint leaves.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Halima Waziri",
+    "source": "https://commons.wikimedia.org/wiki/File:Fresh_mint_leaves.jpg",
+    "caption": "menthe"
+  },
+  {
+    "kind": "photo",
+    "file": "images/crop_papaye.webp",
+    "thumb": "images/thumbs/crop_papaye.webp",
+    "commons_title": "File:Papaya slice.jpg",
+    "license": "CC BY 2.0",
+    "author": "Ranveig",
+    "source": "https://commons.wikimedia.org/wiki/File:Papaya_slice.jpg",
+    "caption": "papaye"
+  }
+]
