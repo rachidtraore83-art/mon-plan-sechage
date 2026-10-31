@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Mon cours">
+  <rect width="192" height="192" rx="36" fill="#0071e3"/>
+  <rect x="40" y="36" width="112" height="120" rx="10" fill="#ffffff"/>
+  <rect x="58" y="58" width="76" height="10" rx="5" fill="#0071e3"/>
+  <rect x="58" y="82" width="76" height="10" rx="5" fill="#34c759"/>
+  <rect x="58" y="106" width="52" height="10" rx="5" fill="#0071e3"/>
+  <rect x="58" y="130" width="64" height="10" rx="5" fill="#d2d2d7"/>
+</svg>

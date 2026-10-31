@@ -1,0 +1,21 @@
+{
+  "name": "Mon cours d’ingénieure agroalimentaire",
+  "short_name": "Mon cours",
+  "description": "Cours hors ligne — Baobab Bliss.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "lang": "fr",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
